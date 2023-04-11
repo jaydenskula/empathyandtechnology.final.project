@@ -1,5 +1,48 @@
 body
 {
     background-color: azure;
-    font-family: 'Marker Felt';
+    max-width: 70%;
+    margin: auto;
+}
+
+.titlePage
+{
+    border:1px solid rgb(7, 25, 58);
+    padding: 0.5em;
+    margin-top: 10em;
+}
+
+.titlePage h1
+{
+    text-align: center;
+    font-family: 'Ebrima';
+    color:rgb(7, 25, 58);
+}
+
+.titlePage p
+{
+    text-align: center;
+    font-family: 'Ebrima';
+    font-weight: bold;
+    color:rgb(92, 124, 156);
+}
+
+ul
+{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+a
+{
+    font-family: 'Ebrima';
+    font-weight: bold;
+    text-decoration: none;
+    color:rgb(92, 124, 156);
+}
+
+a:hover
+{
+    color: rgb(7, 25, 58);
 }
