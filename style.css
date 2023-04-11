@@ -2,6 +2,7 @@ body
 {
     background-color: azure;
     max-width: 70%;
+    font-family: 'Ebrima';
     margin: auto;
 }
 
@@ -15,7 +16,6 @@ body
 .titlePage h1
 {
     text-align: center;
-    font-family: 'Ebrima';
     color:rgb(7, 25, 58);
 }
 
@@ -45,4 +45,11 @@ a
 a:hover
 {
     color: rgb(7, 25, 58);
+}
+
+.header h1
+{
+    text-align: center;
+    margin-top: 2.5em;
+    color:rgb(7, 25, 58);
 }
