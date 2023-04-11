@@ -1,2 +1,2 @@
 # empathyandtechnology.final.project
-[ATLS4244 Final Deliverable](https://empathyandtechnology.final.project/index.html)
+[ATLS4244 Final Deliverable](https://jaydenskula.github.io/empathyandtechnology.final.project/)
