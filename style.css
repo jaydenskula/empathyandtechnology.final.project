@@ -50,15 +50,11 @@ a:hover
 .header h1
 {
     text-align: center;
-    margin-top: 2.0em;
     color:rgb(7, 25, 58);
-    font-size: 5em;
+    font-size: 2em;
 }
 
 article p
 {
-    text-align: center;
     color:rgb(7, 25, 58);
-    font-family: 'Futara';
-    font-size: 1.25em;
 }
