@@ -4,8 +4,7 @@
 - [Study Questions](https://jaydenskula.github.io/empathyandtechnology.final.project/questionnaireBrainstorming.pdf)
 - [Survey Link](https://2iqrvdga00q.typeform.com/to/H3JL9PGX)
 
-- [Grading Contract]
-- [Progress Log #1]
-- [Progress Log #2]
-- [Progress Log #3]
-- [Progress Log #4]
+- [Grading Contract](https://jaydenskula.github.io/empathyandtechnology.final.project/FinalProjectGradingContract.pdf)
+- [Progress Log #1](https://jaydenskula.github.io/empathyandtechnology.final.project/ProjectProgressLog1.pdf)
+- [Progress Log #2](https://jaydenskula.github.io/empathyandtechnology.final.project/ProjectProgressLog2.pdf)
+- [Progress Log #3](https://jaydenskula.github.io/empathyandtechnology.final.project/ProjectProgressLog3.pdf)
