@@ -8,3 +8,5 @@
 - [Progress Log #1](https://jaydenskula.github.io/empathyandtechnology.final.project/ProjectProgressLog1.pdf)
 - [Progress Log #2](https://jaydenskula.github.io/empathyandtechnology.final.project/ProjectProgressLog2.pdf)
 - [Progress Log #3](https://jaydenskula.github.io/empathyandtechnology.final.project/ProjectProgressLog3.pdf)
+
+- [Presentation](https://docs.google.com/presentation/d/1JizLKIyG7tKD3uGH8ItNNj8jCI8CA-BhM9cVsJq_Vsw/edit?usp=share_link)
