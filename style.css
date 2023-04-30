@@ -40,6 +40,8 @@ a
     font-weight: bold;
     text-decoration: none;
     color:rgb(92, 124, 156);
+    transition-duration: 1s;
+    transition-timing-function: ease-out;
 }
 
 a:hover
@@ -54,18 +56,14 @@ a:hover
     font-size: 2em;
 }
 
-article
+.page1
 {
-    background-color:rgb(7, 25, 58);
-}
-
-article p
-{
+    position: sticky;
+    top: 0;
+    width: 500px;
+    height: 100px;
+    margin: 2.5em auto;
+    text-align: center;
+    background-color: rgb(7, 25, 58);
     color: snow;
-    padding: 20px;
-}
-
-dl
-{
-    margin: 0 auto;
 }
