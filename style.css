@@ -54,7 +54,18 @@ a:hover
     font-size: 2em;
 }
 
+article
+{
+    background-color:rgb(7, 25, 58);
+}
+
 article p
 {
-    color:rgb(7, 25, 58);
+    color: snow;
+    padding: 20px;
+}
+
+dl
+{
+    margin: 0 auto;
 }
