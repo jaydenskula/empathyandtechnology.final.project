@@ -58,8 +58,6 @@ a:hover
 
 .page1
 {
-    position: sticky;
-    top: 0;
     width: 550px;
     height: 100px;
     margin: 3em auto;
