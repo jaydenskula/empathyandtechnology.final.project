@@ -55,18 +55,3 @@ a:hover
     color:rgb(7, 25, 58);
     font-size: 2em;
 }
-
-.page1
-{
-    width: 550px;
-    height: 100px;
-    margin: 3em auto;
-    background-color: rgb(7, 25, 58);
-}
-
-.page1 p
-{
-    color: snow;
-    text-align: center;
-    padding: 15px;
-}
