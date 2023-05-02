@@ -55,3 +55,10 @@ a:hover
     color:rgb(7, 25, 58);
     font-size: 2em;
 }
+
+.page3
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+}
