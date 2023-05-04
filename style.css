@@ -62,3 +62,9 @@ a:hover
     grid-template-columns: 1fr 1fr;
     gap: 5px;
 }
+
+.text-item
+{
+    position: sticky;
+    top: 0;
+}
